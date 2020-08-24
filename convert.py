@@ -4,7 +4,7 @@ from xml.dom import minidom
 import os
 import glob
 
-lut={}
+lut={} #modificar las clases en las siguientes lineas
 lut["accessory"] =0
 lut["top"]       =1
 lut["bottom"]    =2
